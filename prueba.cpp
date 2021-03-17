@@ -3,7 +3,9 @@
 using namespace std;
 
 int main(){
-cout << "hola mundo";
+    int a;
+    cout << "hola mundo";
+    cout << endl << a;
 
 
 
