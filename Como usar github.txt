@@ -1,0 +1,15 @@
+Como usar GitHub
+Pasos:
+Si no tienes el repositorio en tu computadora:
+1. Irte a la ubicación donde quieres clonar tu repositorio de GitHub
+2. Clonar el repositorio desde GitHub usando el comando git clone [link del repositorio]
+Una vez que ya tengas el repositorio en tu computadora
+3. Para jalar los cambios hechos en el repositorio desde GitHub a tu compu local, escribes el comando git pull
+4. Para empujar los cambios hechos en tu compu local hacia GitHub, escribes los siguientes comandos:
+git add .
+git commit -m "Mensaje"
+git push
+Recomendaciones:
+Antes de hacer un git add ., tienes que hacer un git pull para jalar los últimos cambios a tu computadora
+Has push a GitHub siempre que quieras subir cambios grandes
+Usa GitHub Desktop para abrir tus repositorios en Visual Studio Code para que sea más fácil
