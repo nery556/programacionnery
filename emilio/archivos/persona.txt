@@ -1,0 +1,5 @@
+Su edad es 20
+Su sexo es F
+Su altura es 1.63
+Su peso es 83
+Su nacionalidad es Mexicana

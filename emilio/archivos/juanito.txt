@@ -1,0 +1,5 @@
+Su edad es 10
+Su sexo es M
+Su altura es 1.4
+Su peso es 38
+Su nacionalidad es Estadounidense
