@@ -1,0 +1,14 @@
+hola
+como
+estas
+soy
+pedro
+y
+nery
+y
+estamos
+haciendo
+pruebas
+con
+los argumentos
+del main
