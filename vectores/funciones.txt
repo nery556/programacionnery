@@ -1,0 +1,12 @@
+begin() nos da el primer elemento del vector
+end() ultimo elemento
+size() tamano
+empty() si esta vacia o nos
+at() el elemento en donde esta la posicion
+back() el ultimo elemento
+front() el primer elemento
+push_back()
+pop_back()
+insert()
+swap()
+clear()

@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-     tuple <int,int>doble;
+    tuple <int,int>doble;
     doble=make_tuple(20,10);
     cout << get <0>(doble) << get <1>(doble) << endl;
     tuple <string,string>nobios;
@@ -15,6 +15,8 @@ int main(){
     nobios2=make_tuple("juan","rodrigo");
     swap(nobios,nobios2);
     cout << get <0> (nobios);
+
+    tuple <tuple<int,int>,int>t1;
     
 
 
